@@ -1,0 +1,16 @@
+img{
+    width:150px;
+    display: inline-block;
+}
+.project{
+    display: inline-block;
+    width: 30%;
+    margin-left: 50px;
+    
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  
+}
